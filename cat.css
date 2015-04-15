@@ -2,6 +2,15 @@ body {
 	background-color:#F2E8D7;
 	}
 h1 {
-	color: black;
 	background-image:url(http://www.interestingfactss.com/wp-content/uploads/2014/10/flower-meadow-20392-20902-hd-wallpapers.jpg);
+	font-family: mistral;
+  color:white;
+  font-size:60px;
+  text-algin:right;
+  border:1px solid black;
+  padding-left:10px;
+  margin-left:30px;
+  width:1500px;
+  height:200px;
 }
+
