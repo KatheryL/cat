@@ -31,7 +31,6 @@ body {
   margin-right:10px;
   margin-left:-70px;
   float:left;
-  padding-top:20px;
   padding-bottom:20px;
   padding-left:-10px;
   font-size:20px;
@@ -49,7 +48,7 @@ a {
   padding:20px;
 }
 a:hover {
-	color:#00ff7f;
+	color:#50ffff;
 }
 footer {
   clear:both;
