@@ -116,3 +116,17 @@ h4 {
 	margin-top:40px;
 	margin-right:20px;
 }
+h5 {
+	font-family:helvetica;
+	font-weight:200;
+	color:black;
+}
+.resume {
+	border:1px solid black;
+	display:block;
+	width:450px;
+	height:400px;
+	float:right;
+	margin-top:40px;
+	margin-right:20px;
+}
