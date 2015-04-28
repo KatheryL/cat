@@ -84,13 +84,9 @@ h3 {
 }
 h4{
 	background-image: url(klogo.jpg);
-	font-family: Lucida Handwriting;
-	color:black;
-  font-size:60px;
-  text-algin:right;
   border:1px solid black;
   padding-left:10px;
   margin-left:30px;
   width:1500px;
-  height:350px;
+  height:300px;
 }
