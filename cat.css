@@ -83,3 +83,13 @@ div section img {
 	margin-top:40px;
 	margin-right:20px;
 }
+h3 {
+	font-family:helvetica;
+	font-weight:600;
+	color:black;
+}
+p2 {
+	font-family:helvetica;
+	font-weight:200;
+	color:black;
+}
