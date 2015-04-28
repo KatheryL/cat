@@ -30,10 +30,11 @@ body {
   width:150px;
   margin-right:10px;
   margin-left:-70px;
+  margin-top:-10px;
   float:left;
   padding-bottom:20px;
   padding-left:-10px;
-  padding-top:-20px;
+  padding-top:20px;
   font-size:20px;
   font-family: helvetica;
   text-align:left;
@@ -64,6 +65,7 @@ footer {
 #content {
   position:absolute;
   width:960px;
+  height:500px;
   padding:10px;
   padding-right:100px;
   padding-bottom:200px;
