@@ -41,7 +41,7 @@ body {
 #nav ul {
   width:150px;
   padding-left:0px;
-  margin-top:10px;
+  margin-top:-10px;
 }
 a {
   color:black;
@@ -82,7 +82,6 @@ h3 {
   text-align:center;
   padding-left:20px;
 }
-header {
-	background-image: url(https://www.flickr.com/photos/124698714@N07/17294413242/);
+h4{
 	font-family: Lucida Handwriting;
 }
