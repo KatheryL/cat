@@ -27,23 +27,22 @@ body {
 #nav li {
   display:inline;
   background-color:#ff9a79;
-  width:250px;
   padding-bottom:20px;
   padding-top:20px;
+  padding;
   font-size:20px;
   font-family: helvetica;
-  text-align:left;
   }
 #nav ul {
-  width:150px;
-  padding-left:0px;
- 
-}
+	position:relative;
+	margin-left:200px;
+	padding:10px;
+  width:960px;
+ }
 a {
   color:black;
   text-decoration:none;
-  width:200px;
-  padding:20px;
+  padding:80px;
 }
 a:hover {
 	color:#50ffff;
@@ -52,7 +51,7 @@ footer {
   clear:both;
 	position: relative;
 	float:left;
-  top:600px;
+  top:800px;
   border:1px solid black;
   width:300px;
   text-align:center;
