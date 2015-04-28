@@ -27,12 +27,8 @@ body {
 #nav li {
   display:inline;
   background-color:#ff9a79;
-  width:150px;
-  margin-right:10px;
-  margin-left:-70px;
-  float:left;
+  width:250px;
   padding-bottom:20px;
-  padding-left:-10px;
   padding-top:20px;
   font-size:20px;
   font-family: helvetica;
@@ -41,7 +37,7 @@ body {
 #nav ul {
   width:150px;
   padding-left:0px;
-  margin-top:100px;
+ 
 }
 a {
   color:black;
