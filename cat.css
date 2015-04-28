@@ -1,87 +1,85 @@
 
-h1 {
-  background-image: url(http://www.interestingfactss.com/wp-content/uploads/2014/10/flower-meadow-20392-20902-hd-wallpapers.jpg);
-  font-family: Lucida Handwriting;
-  color:white;
-  font-size:60px;
-  text-algin:right;
-  border:1px solid black;
-  padding-left:10px;
-  margin-left:30px;
-  width:1500px;
-  height:200px;
-}
-h2 {
-  font-size:20px;
-  margin-left:350px;
-  font-family:helvetica;
-}
 body {
-  background-color:#F2E8d7;
+	background-image: url(http://www.hdwallpapersn.com/wp-content/uploads/2015/04/black_and_white_flowers_wallpapers.jpg);
 }
-#container {
-  width:960px;
-  padding-left:100px;
-  padding-top:20px;
+nav {
+  position:absolute;
 }
-#nav li {
-  display:inline;
-  background-color:#ff9a79;
-  padding-bottom:20px;
-  padding-top:20px;
-  padding;
-  font-size:20px;
-  font-family: helvetica;
+p {
+	font-family:helvetica;
+	font-weight:200;
+	color:black;
+}
+ul {
+	font-family:helvetica;
+	font-weight:200;
+	color:black;
+	list-style-type:none;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:-3px;
+	padding:0;
   }
-#nav ul {
-	position:relative;
-	margin-left:200px;
-	padding:10px;
-  width:960px;
+li {
+	display:inline;
+	margin-left:70px;
+	margin-right:70px;
  }
+h2 {
+	font-family:helvetica;
+	font-weight:600;
+	color:black;
+}
 a {
-  color:black;
-  text-decoration:none;
-  padding:80px;
+	text-decoration:none;
+	font-family:helvetica;
+	font-weight:200;
+	color:#000033;
+	font-size:25px;
 }
 a:hover {
-	color:#50ffff;
+	color:#91ffb4;
+}
+.top {
+	padding:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+	width:980px;
+	height:20px;
+	background-color:#c1ffc1;
+	text-align:center;
+	z-index:1;
+}
+.bottom {
+	padding:10px;
+	width:980px;
+	height:20px;
+	background-color:#c1ffc1;
+	clear:both;
+}
+#screen {
+	width:1000px;
+	height:800px;
+	background-color:#ffe7c4;
+	margin-right:auto;
+	margin-left:auto;
+}
+.position{
+	width:400px;
+	margin-left:70px;
+	margin-top:90px;
+	display:block;
+	float:left;
 }
 footer {
-  clear:both;
-	position: relative;
-	float:left;
-  top:800px;
-  border:1px solid black;
-  width:300px;
-  text-align:center;
-  background-color:white;
+	width:1000px;
+	margin-right:auto;
+	margin-left:auto;
 }
-#content {
-  position:absolute;
-  width:960px;
-  height:500px;
-  padding:10px;
-  padding-right:100px;
-  padding-bottom:200px;
-  margin-left:150px;
-  border:2px solid black;
-}
-h3 {
-  font-family:helvetica;
-  text-align:center;
-  padding-left:20px;
-}
-#content p {
-  font-family:helvetica;
-  text-align:center;
-  padding-left:20px;
-}
-h4{
-	background-image: url(klogo.jpg);
-  border:1px solid black;
-  padding-left:10px;
-  margin-left:30px;
-  width:1500px;
-  height:300px;
+div section img {
+	display:block;
+	width:400px;
+	float:right;
+	margin-top:40px;
+	margin-right:20px;
 }
