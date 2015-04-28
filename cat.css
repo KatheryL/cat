@@ -38,7 +38,7 @@ a {
 	font-size:25px;
 }
 a:hover {
-	color:#91ffb4;
+	color:#f6f080;
 }
 .top {
 	padding:10px;
@@ -92,4 +92,13 @@ p2 {
 	font-family:helvetica;
 	font-weight:200;
 	color:black;
+}
+.work {
+	border:2px solid black;
+	display:block;
+	width:450px;
+	height:400px;
+	float:right;
+	margin-top:40px;
+	margin-right:20px;
 }
