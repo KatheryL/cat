@@ -93,13 +93,13 @@ p2 {
 	height:620px;
 	float:right;
 	margin-top:40px;
-	margin-right:40px;
+	margin-right:60px;
 }
 #pics img {
 	display:block;
 	width:275px;
 	float:right;
-	margin-top:20px;
+	margin-top:400px;
 	margin-right:60px;
 }
 div section img {
@@ -116,9 +116,9 @@ h4 {
 }
 #contactme img {
 	display:inline;
-	width:100px;
+	width:130px;
 	float:right;
-	margin-top:50px;
+	margin-top:60px;
 	margin-right:60px;
 }
 .contact {
@@ -126,7 +126,7 @@ h4 {
 	width:450px;
 	height:500px;
 	float:right;
-	margin-top:50px;
+	margin-top:60px;
 	margin-right:60px;
 }
 h5 {
