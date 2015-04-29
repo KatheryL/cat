@@ -140,7 +140,8 @@ h5 {
 }
 #res img {
 	display:block;
-	width:275px;
+	width:400px;
+	height:500px;
 	float:right;
 	margin-top:50px;
 	margin-right:60px;
