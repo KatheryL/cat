@@ -138,3 +138,10 @@ h5 {
 	margin-top:80px;
 	margin-right:60px;
 }
+#res img {
+	display:block;
+	width:275px;
+	float:right;
+	margin-top:50px;
+	margin-right:60px;
+}
