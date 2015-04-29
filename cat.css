@@ -76,13 +76,7 @@ footer {
 	margin-right:auto;
 	margin-left:auto;
 }
-div section img {
-	display:block;
-	width:400px;
-	float:right;
-	margin-top:40px;
-	margin-right:20px;
-}
+
 h3 {
 	font-family:helvetica;
 	font-size:25px;
@@ -101,6 +95,13 @@ p2 {
 	float:right;
 	margin-top:50px;
 	margin-right:40px;
+}
+div section img {
+  display:block;
+  width:400px;
+  float:right;
+  margin-top:40px;
+  margin-right:20px;
 }
 h4 {
 	font-family:helvetica;
