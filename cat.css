@@ -90,15 +90,15 @@ p2 {
 .work {
 	border:1px solid black;
 	display:block;
-	width:500px;
-	height:700px;
+	width:400px;
+	height:500px;
 	float:right;
-	margin-top:50px;
+	margin-top:20px;
 	margin-right:40px;
 }
 #pics img {
 	display:block;
-	width:100px;
+	width:300px;
 	float:right;
 	margin-top:40px;
 	margin-right:20px;
