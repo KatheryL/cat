@@ -88,10 +88,9 @@ p2 {
 	color:black;
 }
 .work {
-	border:1px solid black;
 	display:block;
 	width:400px;
-	height:600px;
+	height:620px;
 	float:right;
 	margin-top:40px;
 	margin-right:40px;
@@ -101,7 +100,7 @@ p2 {
 	width:275px;
 	float:right;
 	margin-top:20px;
-	margin-right:50px;
+	margin-right:60px;
 }
 div section img {
   display:block;
