@@ -130,7 +130,6 @@ h5 {
 	color:black;
 }
 .resume {
-	border:1px solid black;
 	display:block;
 	width:450px;
 	height:500px;
@@ -140,7 +139,7 @@ h5 {
 }
 #res img {
 	display:block;
-	width:400px;
+	width:450px;
 	height:500px;
 	float:right;
 	margin-top:50px;
