@@ -5,6 +5,12 @@ body {
 nav {
   position:absolute;
 }
+h1 {
+	font-family:Helvetica;
+	font-weight:300;
+	color: black;
+	margin-top:10px;
+}
 p {
 	font-family:helvetica;
 	font-weight:200;
