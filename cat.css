@@ -112,7 +112,6 @@ h4 {
 #contactme img {
 	display:inline;
 	width:130px;
-	float:left;
 	margin-top:60px;
 	margin-right:60px;
 }
@@ -120,9 +119,8 @@ h4 {
 	display:block;
 	width:450px;
 	height:500px;
-	float:left;
 	margin-top:60px;
-	margin-right:60px;
+	margin-right:20px;
 }
 h5 {
 	font-family:helvetica;
